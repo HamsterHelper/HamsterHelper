@@ -1,16 +1,17 @@
-### Hi there 👋
+### 为什么会有这个项目,这个项目解决哪些问题?
 
-<!--
-**HamsterHelper/HamsterHelper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+1.  Pixiv自带的图片浏览功能体验太差了,没有放大,旋转,快捷键等等功能
+2.  梯子不稳定,图片加载几秒才出来,无法痛快浏览
+3.  作者被封号/退网,珍藏的相关图片全部没有了
+4.  星际玩家根本看不出图片差分在哪里
+5.  仓鼠患者手动保存图片太麻烦了
+6.  保存之后管理也麻烦,想~~施法~~欣赏根本找不到图片在哪
+7.  保存后,本地图片浏览器体验差~~作者不是二次元~~根本不适合浏览
 
-Here are some ideas to get you started:
+### 之后可能会加入的功能
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. Twitter图片收藏(部分画师Pixiv不更新或没有Pixiv账号)
+2. 动图下载(目前动图下的是静态图)
+4. 图片浏览器(目前我在用,但是得优化后不会编程的人才能用.个人觉得体验比我用过的所有图片浏览器都好)
+3. 漫画收藏,管理,浏览
+
