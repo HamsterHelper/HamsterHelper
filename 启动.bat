@@ -8,3 +8,5 @@ set CLASSPATH=.;%JAVA_HOME%\lib\dt.jar;%JAVA_HOME%\lib\tools.jar;
 set Path=%JAVA_HOME%\bin;
 
 java -jar -Xms64m -Xmx512m jre\lib\pixivMaster-starter-0.0.1.jar
+
+start  http://localhost:7088/admin/
