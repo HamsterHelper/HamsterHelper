@@ -5,3 +5,5 @@
 2. 按F12打开控制台
 3. 按F5刷新Pixiv页面
 4. 如下图右键cookies,复制值
+
+![获取cookies](cookies.jpg)
