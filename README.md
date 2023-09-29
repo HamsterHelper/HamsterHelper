@@ -11,7 +11,7 @@
 7. 只收藏自己喜欢的差分,比如删掉多人,重口差分只收藏纯爱差分~~爆杀牛头人~~
 8. 仓鼠手动保存图片太麻烦了(自动同步排行榜,收藏的作品,关注的画师作品等等到硬盘)
 9. 解决保存之后管理麻烦,想~~施法~~欣赏根本找不到图片在哪问题
-10. 保存后,本地图片浏览器体验很差,且无法显示作品标题,标签,描述等信息
+10. 保存后,本地图片浏览器体验很差,且无法显示作品标题,作者,标签,描述等信息
 
 ### 交流平台
 qq群:[170442450](https://qm.qq.com/cgi-bin/qm/qr?k=eroRaAhTLGrd223gk3HRdPQ9PFJn7DV1&jump_from=webapi&authKey=nZhnIxLtZktoABsR8OynloPG9278FIGeFJWn7/sukzVZEoV281XVz+iQCENM8OJq)
