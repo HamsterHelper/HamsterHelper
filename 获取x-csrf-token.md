@@ -3,7 +3,7 @@
 
 1. 登录Pixiv(一定要登录成功后再获取x-csrf-token)
 2. 按F12打开控制台
-3. 随便点击一张图片的红心收藏按钮
+3. 随便点击一张图片的收藏按钮,收藏一张图片
 4. 如下图右键x-csrf-token,复制值
 
 ![获取x-csrf-token](x-csrf-token.jpg)
