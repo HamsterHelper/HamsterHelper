@@ -3,22 +3,16 @@ name: 软件问题
 about: 软件遇到问题请请这个模板提交issues
 ---
 
-**Title:** [请简单描述你遇到的问题]
+**标题:** 请简单描述你遇到的问题
 
-**Description:** [请详细描述你遇到的问题]
+**描述:** 请详细描述你遇到的问题
 
-**Related Issues:** [List the issue numbers related to this issue]
+**操作系统版本:** 
 
-**Checklist:**
+**本软件版本:** 
 
-- [ ]  The existence of this issue has been confirmed
-- [ ]  The importance and urgency of this issue have been confirmed
-- [ ]  The responsible person for this issue has been confirmed
-- [ ]  The solution for this issue has been confirmed
-- [ ]  The testing method for this issue has been confirmed
+**本机内存:**
 
-**Labels:** [Add appropriate labels]
+**控制台出错信息:**
 
-**Assignees:** [Assign the responsible person for this issue]
-
-**Priority:** [Set the priority for this issue]
+``详细的控制台出错信息请粘贴到这里`` 
