@@ -19,7 +19,7 @@
 ![图片浏览](oneImage.jpg)
 ![后台功能,快捷键](admin.jpg)
 
-# [使用教程请点我](doc/src/SUMMARY.md)
+# [使用教程请点我](https://hamsterhelper.github.io/HamsterHelper/doc/src/SUMMARY.html)
 
 ### 交流平台
 qq群:[170442450](https://qm.qq.com/cgi-bin/qm/qr?k=eroRaAhTLGrd223gk3HRdPQ9PFJn7DV1&jump_from=webapi&authKey=nZhnIxLtZktoABsR8OynloPG9278FIGeFJWn7/sukzVZEoV281XVz+iQCENM8OJq)
