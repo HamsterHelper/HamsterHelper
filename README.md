@@ -1,3 +1,5 @@
+#[仓鼠助手](https://hamsterhelper.github.io/HamsterHelper/)
+
 这是我用了5年的东西,共下载了98万色图,收藏了12万色图
 
 ### 这个项目主要解决哪些问题,有哪些功能?
@@ -13,15 +15,16 @@
 9. 解决保存之后管理麻烦,想~~施法~~欣赏根本找不到图片在哪问题
 10. 保存后,本地图片浏览器体验很差,且无法显示作品标题,作者,标签,描述等信息
 
-### 交流平台
-qq群:[170442450](https://qm.qq.com/cgi-bin/qm/qr?k=eroRaAhTLGrd223gk3HRdPQ9PFJn7DV1&jump_from=webapi&authKey=nZhnIxLtZktoABsR8OynloPG9278FIGeFJWn7/sukzVZEoV281XVz+iQCENM8OJq)
-
 ### 功能展示
 ![图片列表](gallery.jpg)
 ![图片浏览](oneImage.jpg)
 ![后台功能,快捷键](admin.jpg)
 
-### [使用教程请点我](教程.md)
+# [使用教程请点我](doc/src/SUMMARY.md)
+
+### 交流平台
+qq群:[170442450](https://qm.qq.com/cgi-bin/qm/qr?k=eroRaAhTLGrd223gk3HRdPQ9PFJn7DV1&jump_from=webapi&authKey=nZhnIxLtZktoABsR8OynloPG9278FIGeFJWn7/sukzVZEoV281XVz+iQCENM8OJq)
+
 
 ### 之后可能会加入的功能(咕咕咕)
 
