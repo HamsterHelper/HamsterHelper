@@ -8,3 +8,6 @@
 4. 如下图右键x-csrf-token,复制值
 
 ![获取x-csrf-token](img/x-csrf-token.jpg)
+
+### 不会举一反三怎么办
+  建议下个火狐浏览器,对着教程一步步来.
