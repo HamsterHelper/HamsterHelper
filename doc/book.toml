@@ -1,0 +1,5 @@
+[book]
+authors = ["仓鼠助手"]
+language = "zh"
+multilingual = false
+src = "src"
