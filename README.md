@@ -22,8 +22,7 @@
 ![图片浏览](oneImage.jpg)
 ![后台功能,快捷键](admin.jpg)
 
-# [使用教程请点我](doc/src/SUMMARY.html)
-
+# [使用教程请点我](https://hamsterhelper.github.io/HamsterHelper/doc/src/SUMMARY.html)
 
 ### 交流平台
 [Telegram: hamsterHelperGroup](https://t.me/hamsterHelperGroup)
