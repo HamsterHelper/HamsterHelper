@@ -27,7 +27,7 @@
 
 [Github discussions](https://github.com/HamsterHelper/HamsterHelper/discussions)
 
-[discord](https://discord.gg/J8FQP6xP)
+[discord](https://discord.gg/aBcfpykJ)
 
 
 ### 之后可能会加入的功能(咕咕咕)
