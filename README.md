@@ -16,9 +16,11 @@
 12. 现有的下载工具都是只管下载不管浏览(用其他浏览器浏览丢失了标签,画师,作品说明等等信息),没有管理,搜索等功能,还要手动下载等等问题,本软件通通解决!
 
 ### 功能展示
+<details>
 ![图片列表](gallery.jpg)
 ![图片浏览](oneImage.jpg)
 ![后台功能,快捷键](admin.jpg)
+</details>
 
 # [使用教程请点我](https://hamsterhelper.github.io/HamsterHelper/doc/src/SUMMARY.html)
 
@@ -32,7 +34,7 @@
 
 ### 之后可能会加入的功能(咕咕咕)
 
-1. Twitter/Fanbox/Patreon/Gumroad/exhentai 等图片收藏(部分画师Pixiv不更新或没有Pixiv账号)
+1. Twitter/Fanbox/Patreon/Gumroad/exhentai/danbooru/gelbooru 等图片收藏(部分画师Pixiv不更新或没有Pixiv账号)
 2. 动图下载(目前动图下的是静态图)
 3. 图片误删撤销功能(ctrl+z键)或回收站功能
 4. 漫画浏览器(目前我在用,但是得优化后不会编程的人才能用.个人觉得体验比我用过的所有漫画浏览器都好,加载慢,UI占一大片屏幕,快捷键没有或反人类)
