@@ -26,6 +26,10 @@
 
 # [使用教程请点我](https://hamsterhelper.github.io/HamsterHelper/doc/src/SUMMARY.html)
 
+### 机场推荐
+[AKY-JPAN,我个人用了5年了,非常稳定,点击前往](https://www.v2aky.com/#/register?code=nJ8ZJIb2)
+[狗狗加速](https://www.dg7.top/#/register?code=Hn7rBeXv)
+
 ### 交流平台
 [Telegram: hamsterHelperGroup](https://t.me/hamsterHelperGroup)
 
