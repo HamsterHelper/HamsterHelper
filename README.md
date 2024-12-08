@@ -16,13 +16,10 @@
 12. 现有的下载工具都是只管下载不管浏览(用其他浏览器浏览丢失了标签,画师,作品说明等等信息),没有管理,搜索等功能,还要手动下载等等问题,本软件通通解决!
 
 ### 功能展示
-<details>
 
 ![图片列表](gallery.jpg)
 ![图片浏览](oneImage.jpg)
 ![后台功能,快捷键](admin.jpg)
-
-</details>
 
 # [使用教程请点我](https://hamsterhelper.github.io/HamsterHelper/doc/src/SUMMARY.html)
 
