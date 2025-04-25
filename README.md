@@ -26,7 +26,7 @@
 
 ### 机场推荐
 
-[狗狗加速](https://www.dg7.top/#/register?code=Hn7rBeXv)
+[宝可梦](https://love.52pokemon.cc/register?code=Xt4UZta8)
 
 ### 交流平台
 [Telegram: hamsterHelperGroup](https://t.me/hamsterHelperGroup)
