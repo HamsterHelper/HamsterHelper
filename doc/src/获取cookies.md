@@ -13,3 +13,9 @@
   跟火狐差不多的,如果你不会,建议下个火狐浏览器,对着教程一步步来.
   
 ### 若设置cookies界面,一直转圈,请检查代理设置!(内置机场不再维护,请自己准备机场)
+
+### 机场推荐
+
+[宝可梦](https://love.52pokemon.cc/register?code=Xt4UZta8)
+
+[狗狗加速](https://inv.dginv.click/#/register?code=Hn7rBeXv)
