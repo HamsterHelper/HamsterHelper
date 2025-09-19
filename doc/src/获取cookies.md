@@ -16,6 +16,6 @@
 
 ### 机场推荐
 
-[宝可梦](https://love.52pokemon.cc/register?code=Xt4UZta8)
+[宝可梦](https://web2.52pokemon.cc/register?code=Xt4UZta8)
 
 [狗狗加速](https://inv.dginv.click/#/register?code=Hn7rBeXv)
